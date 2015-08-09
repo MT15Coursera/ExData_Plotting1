@@ -1,4 +1,4 @@
-## This code produces Plot 3 of the exercise
+## This code produces Plot 4 of the exercise
 
 # Check if the data.table package is installed and install it if necessary
 if (! is.element("data.table", installed.packages()[,1])) {
