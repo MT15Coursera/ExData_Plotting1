@@ -4,7 +4,7 @@
 if (! is.element("data.table", installed.packages()[,1])) {
   install.packages("data.table")
 }
-# Load the package
+# Load the package  
 library(data.table)
 
 # Read the data from the file
